@@ -1,5 +1,9 @@
 # CUPI · Demo público
 
+## Demo en vivo
+
+https://go.maximussistemas.com/gh-demo-cupi
+
 Demostración pública y segura basada en la landing LIVE de CUPI.
 
 ## Incluye
