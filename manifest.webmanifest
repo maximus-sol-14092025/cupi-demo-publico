@@ -1,0 +1,8 @@
+{
+  "name": "CUPI Demo Público",
+  "short_name": "CUPI Demo",
+  "start_url": "./",
+  "display": "browser",
+  "background_color": "#fffdfa",
+  "theme_color": "#6f4aa8"
+}
